@@ -1,9 +1,12 @@
 const path = require('path');
 const fs = require('fs');
+const clear = require("clear")
+const ascii = require("figlet")
+const chalk = require("chalk")
 
 let commandArr = [];
 let commandList = fs.readdirSync(__dirname);
-exports.run = (chalk, clear, ascii, args) => {
+exports.run = (args) => {
     for (let i = 0; i < commandList.length; i++) {
         commandArr.push(`mci ${path.basename(`${__dirname}/${commandList[i]}`, `.js`)}`);
     }
