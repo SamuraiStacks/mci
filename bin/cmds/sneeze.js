@@ -3,7 +3,7 @@ exports.run = () => {
     clear()
     console.log("Rob > Im going to sneeze!")
     setTimeout(() => {
-        console.log("Aaaaaah..")
+        console.log("Rob > Aaaaaah..")
     }, 2000)
     setTimeout(() => {
         console.log("Chooooooooooo")
