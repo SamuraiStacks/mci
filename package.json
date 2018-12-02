@@ -1,0 +1,30 @@
+{
+  "name": "mci",
+  "version": "1.0.0",
+  "description": "Probably the memeiest CLI that exists on npm",
+  "main": "bin/brain.js",
+  "scripts": {
+    "test": "mci help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuraiStacks/mci.git"
+  },
+  "keywords": [
+    "cli",
+    "command-line-interface",
+    "memes",
+    "fun",
+    "dumb",
+    "funny"
+  ],
+  "author": "SamuraiStacks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamuraiStacks/mci/issues"
+  },
+  "homepage": "https://github.com/SamuraiStacks/mci#readme",
+  "bin": {
+    "mci": "bin/brain.js"
+  }
+}
