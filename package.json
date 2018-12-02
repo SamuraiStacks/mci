@@ -26,5 +26,9 @@
   "homepage": "https://github.com/SamuraiStacks/mci#readme",
   "bin": {
     "mci": "bin/brain.js"
-  }
+  },
+  "dependencies": {
+    "prompt": "^1.0.0"
+  },
+  "preferGlobal": true
 }
