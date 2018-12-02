@@ -1,3 +1,4 @@
+const list = require("prompt-list")
 exports.run = () => {
     const player = new list({
         name: "Main Menu",
