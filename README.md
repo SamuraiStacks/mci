@@ -10,6 +10,7 @@ Get a list of commands with `mci help` but if your hands are lazy, run `mci`
 ![Example](https://skullbite.is-for.me/i/fxelximn.gif)
 
 # Changelog
-Added 4 new commands!!11!
-Redid minecraft command
-`preferGlobal` in package.json
++ Added 4 new commands!!11!
++ Redid minecraft command
++ `preferGlobal` in package.json
++ fixed this readme
