@@ -1,16 +1,15 @@
-`npm i -g mci`
+Hey! Are you a fellow meme enthusiast? Well install `mci`, which is probably the memeiest CLI that exists on npm!
 
-That, is how to install MCI
-
-
-Welcome, to MCI. The memey and dumb CLI.
+# Installing
+Run `npm install --global mci`
 
 # Commands
-You can find all commands with `mci` or `mci help`, your choice ¯\\\_(ツ)_/¯
+Get a list of commands with `mci help` but if your hands are lazy, run `mci`
 
-## Example
-![Example](https://vgy.me/vNb4CM.gif)
-
+## Usage Example
+![Example](https://skullbite.is-for.me/i/fxelximn.gif)
 
 # Changelog
-+ minecraft command
+Added 4 new commands!!11!
+Redid minecraft command
+`preferGlobal` in package.json
